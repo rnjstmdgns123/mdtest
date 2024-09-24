@@ -22,6 +22,6 @@
 [노션 링크](https://naver.com)
 
 ##코드
-```sh
+```java
 javac HellowWord.java
 ```
