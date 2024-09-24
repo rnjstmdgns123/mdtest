@@ -1,6 +1,12 @@
 # mdtest
 
 ##목차
+<br><br>
+
+##기술
+-백엔드
+  -java11
+  -
 
 
 
@@ -13,4 +19,9 @@
 
 
 ##링크
-[노션 링크][https://naver.com]
+[노션 링크](https://naver.com)
+
+##코드
+```sh
+javac HellowWord.java
+```
